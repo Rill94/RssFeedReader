@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">RSS Feed Reader</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_rsscontent">RSS content</string>
+    <string name="error_loading_items">An error happened while loading data</string>
+    <string name="loading">Loading&#8230;</string>
+    <string name="search_hint">RSS</string>
+    <string name="filter_hint">Фильтр</string>
+
+</resources>

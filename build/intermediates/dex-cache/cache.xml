@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\Valerie\AndroidStudioProjects\RSSFeedReader\app\libs\jdom-1.1.1-android-fork.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="936e2a877cacca2108b619bbc718d1550299b106">
+        <dex dex="C:\Users\Valerie\AndroidStudioProjects\RSSFeedReader\app\build\intermediates\pre-dexed\debug\jdom-1.1.1-android-fork-3821ba212d89ef7c322f1392b04e9e381580378d.jar" />
+    </item>
+    <item
+        jar="C:\Users\Valerie\AndroidStudioProjects\RSSFeedReader\app\libs\android-rome-feed-reader-1.0.0.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="70658757391670c5368564d3e98bb8182a0980bc">
+        <dex dex="C:\Users\Valerie\AndroidStudioProjects\RSSFeedReader\app\build\intermediates\pre-dexed\debug\android-rome-feed-reader-1.0.0-47a3606ab5566c084de5494e2a3adb3dc5701bde.jar" />
+    </item>
+    <item
+        jar="C:\Users\Valerie\AndroidStudioProjects\RSSFeedReader\app\build\intermediates\exploded-aar\com.android.support\support-v4\21.0.3\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="2c91c949a45a21cdecf26e03951e46c7beec9ad8">
+        <dex dex="C:\Users\Valerie\AndroidStudioProjects\RSSFeedReader\app\build\intermediates\pre-dexed\debug\classes-3f0c3b5f9bcc32d231934c9198a96419791960f6.jar" />
+    </item>
+    <item
+        jar="C:\Users\Valerie\AndroidStudioProjects\RSSFeedReader\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\21.0.3\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="81d42bf983a8741f4888a6e333e454e4a5e0eeb7">
+        <dex dex="C:\Users\Valerie\AndroidStudioProjects\RSSFeedReader\app\build\intermediates\pre-dexed\debug\classes-295ae11b7fe92a016f48f1f436701e7579dfdeed.jar" />
+    </item>
+    <item
+        jar="C:\Develop\androidSDK\extras\android\m2repository\com\android\support\support-annotations\21.0.3\support-annotations-21.0.3.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="4b74cefe1f0c1b819e7260c8627a14674e37fd35">
+        <dex dex="C:\Users\Valerie\AndroidStudioProjects\RSSFeedReader\app\build\intermediates\pre-dexed\debug\support-annotations-21.0.3-aa9abf0bea0e8875751c08aca4b9cecea80383b6.jar" />
+    </item>
+    <item
+        jar="C:\Users\Valerie\AndroidStudioProjects\RSSFeedReader\app\build\intermediates\exploded-aar\com.android.support\support-v4\21.0.3\libs\internal_impl-21.0.3.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="01ec05bfbafcc07646ba813000bf2ef11742dd03">
+        <dex dex="C:\Users\Valerie\AndroidStudioProjects\RSSFeedReader\app\build\intermediates\pre-dexed\debug\internal_impl-21.0.3-368ad009d3955388d8156a360321ecf553b19480.jar" />
+    </item>
+
+</items>
